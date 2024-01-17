@@ -3,6 +3,10 @@
 
 
 
+![Alt text](image-2.png)
+
+
+
 ```bash
 
 mkdir CURRENCY-CONVERTER && cd CURRENCY-CONVERTER
