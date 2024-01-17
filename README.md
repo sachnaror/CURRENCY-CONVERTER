@@ -3,7 +3,8 @@
 
 
 
-![Alt text](image-3.png)
+<img width="603" alt="image" src="https://github.com/sachnaror/CURRENCY-CONVERTER/assets/9551754/d99e93e5-4b03-41df-8299-78f42f644ffc">
+
 
 
 
