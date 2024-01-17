@@ -1,10 +1,13 @@
 
-## Run Locally and Have Fun :-)
-
-
 
 <img width="403" alt="image" src="https://github.com/sachnaror/CURRENCY-CONVERTER/assets/9551754/d99e93e5-4b03-41df-8299-78f42f644ffc">
 
+
+.
+.
+.
+
+## Run Locally and Have Fun :-)
 
 
 
